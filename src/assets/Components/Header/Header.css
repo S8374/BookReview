@@ -1,0 +1,8 @@
+.menu a {
+    margin-left: 20px ;
+}
+@media (max-width:425px){
+    .btnser{
+        width: 40px;
+    }
+}
